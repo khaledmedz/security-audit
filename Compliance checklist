@@ -1,0 +1,27 @@
+# Compliance Report for Botium Toys
+
+This report outlines the key compliance requirements that Botium Toys, a global business, must adhere to in order to ensure the security and privacy of data and operations. Each requirement is explained concisely:
+
+## FERC-NERC (Federal Energy Regulatory Commission - North American Electric Reliability Corporation)
+- Applicability: Organizations dealing with electricity and the U.S. and North American power grid.
+- Obligations: Prepare for, mitigate, and report potential security issues affecting the power grid.
+- Requirement: Comply with the Critical Infrastructure Protection Reliability Standards (CIP) set by FERC.
+
+## GDPR (General Data Protection Regulation)
+- Applicability: Protecting the personal data and privacy of EU citizens.
+- Key Rule: Promptly inform EU individuals if their data is compromised (within 72 hours) if Botium Toys collects data from the EU.
+
+## PCI DSS (Payment Card Industry Data Security Standard)
+- Applicability: Organizations handling credit card information.
+- Focus: Ensure secure handling of credit card data (both in-person and online).
+
+## HIPAA (Health Insurance Portability and Accountability Act)
+- Applicability: Protection of U.S. patients' health information.
+- Core Principle: Prohibits sharing patient data without consent and mandates notifying patients in case of a data breach.
+
+## SOC Type 1 and SOC Type 2 (System and Organizations Controls)
+- Purpose: Assess user access controls, financial compliance, risk management, data confidentiality, privacy, integrity, availability, and security.
+- Significance: Control failures in these areas can lead to fraud.
+- Action Item: Botium Toys must establish and enforce appropriate user access controls for both internal and external personnel, including third-party vendors, to mitigate risks and ensure data safety.
+
+In summary, compliance with these regulations and standards is essential for Botium Toys to safeguard sensitive data and maintain the security and privacy of the company and its customers.
