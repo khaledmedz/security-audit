@@ -1,1 +1,52 @@
+**Controls Assessment**
+
+**Current Assets**
+
+Assets managed by the IT Department include:
+
+- On-premises Equipment: Equipment used in the office for business needs
+- Employee Equipment: End-user devices (e.g., desktops, laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+- Management of Systems, Software, and Services: Accounting, telecommunication, database, security, ecommerce, and inventory management
+- Internet Access: Access to the internet
+- Internal Network: The office network
+- Vendor Access Management: Controlling access by vendors
+- Data Center Hosting Services: Services for hosting data centers
+- Data Retention and Storage: Storing important data
+- Badge Readers: Devices for reading security badges
+- Legacy System Maintenance: Monitoring end-of-life systems
+
+**Administrative Controls**
+
+| Control Name            | Control Type and Explanation                   | Needs to be Implemented | Priority  |
+|-------------------------|-----------------------------------------------|------------------------|----------|
+| Least Privilege         | Prevent unauthorized access to assets/data   | X                      | High     |
+| Disaster Recovery Plans | Ensure business continuity in case of incidents | X                      | High     |
+| Password Policies       | Establish strong password rules               | X                      | High     |
+| Access Control Policies | Enhance data confidentiality and integrity    | X                      | High     |
+| Account Management Policies | Reduce attack surface and limit impact     | X                      | High/Medium |
+| Separation of Duties    | Prevent abuse of system for personal gain     | X                      | High     |
+
+**Technical Controls**
+
+| Control Name              | Control Type and Explanation                       | Needs to be Implemented | Priority  |
+|---------------------------|---------------------------------------------------|------------------------|----------|
+| Firewall                  | Prevent unwanted/malicious network traffic          | NA                     | NA       |
+| Intrusion Detection System (IDS) | Identify intrusions quickly                  | X                      | High     |
+| Encryption                | Enhance data security                               | X                      | High/Medium |
+| Backups                   | Support productivity in case of incidents          | X                      | High     |
+| Password Management System | Assist with password-related tasks                | X                      | High/Medium |
+| Antivirus (AV) Software   | Detect and quarantine known threats                | X                      | High     |
+| Manual Monitoring, Maintenance, and Intervention | Protect legacy systems | X                      | High     |
+
+**Physical Controls**
+
+| Control Name           | Control Type and Explanation                  | Needs to be Implemented | Priority  |
+|------------------------|----------------------------------------------|------------------------|----------|
+| Time-Controlled Safe   | Reduce physical threat impact                | X                      | Medium/Low |
+| Adequate Lighting      | Deter threats by limiting hiding places      | X                      | Medium/Low |
+| Closed-Circuit Television (CCTV) Surveillance | Reduce risk and assist investigations | X                      | High/Medium |
+| Locking Cabinets (for Network Gear) | Secure network infrastructure gear | X                      | Medium  |
+| Signage Indicating Alarm Service Provider | Deter attacks by showing security | X                      | Low      |
+| Locks                  | Secure physical and digital assets            | X                      | High     |
+| Fire Detection and Prevention | Detect and prevent fires in the store    | X                      | Medium/Low |
 
